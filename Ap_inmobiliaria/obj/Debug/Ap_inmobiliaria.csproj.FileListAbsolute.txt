@@ -400,3 +400,6 @@ C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESC
 C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
 C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
 C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - ultimo- usuarios - control de intentos\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - ultimo- usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - ultimo- usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
