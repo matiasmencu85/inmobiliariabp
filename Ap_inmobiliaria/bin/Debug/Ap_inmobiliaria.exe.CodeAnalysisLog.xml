@@ -1,0 +1,860 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files\microsoft visual studio 11.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="11.0">
+ <Targets>
+  <Target Name="C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe">
+   <Modules>
+    <Module Name="ap_inmobiliaria.exe">
+     <Namespaces>
+      <Namespace Name="Ap_inmobiliaria">
+       <Types>
+        <Type Name="alquilerDAL" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#Agregar(Ap_inmobiliaria.alquiler)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="alquilerDAL.cs" Line="19">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'alquilerDAL.Agregar(alquiler)' podría contener las siguientes variables: 'palquiler.dni_cliente', 'palquiler.localidad', 'palquiler.domicilio', 'palquiler.tipo', 'palquiler.ambientes', 'palquiler.precio', 'palquiler.estado', 'palquiler.detalles', 'palquiler.prohibiciones', 'palquiler.inventario', 'palquiler.fecha_ini', 'palquiler.fecha_fin'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Buscaralquiler(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="alquilerDAL.cs" Line="62">El objeto 'conexion' admite Dispose más de una vez en el método 'alquilerDAL.Buscaralquiler(string, string)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 62</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="alquilerDAL.cs" Line="35">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'alquilerDAL.Buscaralquiler(string, string)' podría contener las siguientes variables: 'ptipo', 'pambientes'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#eliminar(System.Int64)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="alquilerDAL.cs" Line="131">El objeto 'conexion' admite Dispose más de una vez en el método 'alquilerDAL.eliminar(long)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 131</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="alquilerDAL.cs" Line="128">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'alquilerDAL.eliminar(long)' podría contener las siguientes variables: 'pid'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Modificar(Ap_inmobiliaria.alquiler)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="alquilerDAL.cs" Line="116">El objeto 'conexion' admite Dispose más de una vez en el método 'alquilerDAL.Modificar(alquiler)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 116</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="alquilerDAL.cs" Line="113">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'alquilerDAL.Modificar(alquiler)' podría contener las siguientes variables: 'palquiler.dni_cliente', 'palquiler.localidad', 'palquiler.domicilio', 'palquiler.tipo', 'palquiler.ambientes', 'palquiler.precio', 'palquiler.estado', 'palquiler.detalles', 'palquiler.prohibiciones', 'palquiler.inventario', 'palquiler.fecha_ini', 'palquiler.fecha_fin', 'palquiler.id'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Obteneralquiler(System.Int64)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="alquilerDAL.cs" Line="101">El objeto 'conexion' admite Dispose más de una vez en el método 'alquilerDAL.Obteneralquiler(long)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 101</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="alquilerDAL.cs" Line="76">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'alquilerDAL.Obteneralquiler(long)' podría contener las siguientes variables: 'pid'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="clientes" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'clientes'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="contrato" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#textBox1_TextChanged_1(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="contrato.cs" Line="113">La cadena de consulta pasada a 'SqlCommand.CommandText.set(string)' en 'contrato.textBox1_TextChanged_1(object, EventArgs)' podría contener las siguientes variables: 'this.textBox1.Text'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="DataSet1" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'DataSet1'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="ejemploDataSet" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'ejemploDataSet'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="ejemploDataSet+documentosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'ejemploDataSet.documentosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="Form6" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#textBox15_TextChanged(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="Form6.cs" Line="249">La cadena de consulta pasada a 'SqlCommand.CommandText.set(string)' en 'Form6.textBox15_TextChanged(object, EventArgs)' podría contener las siguientes variables: 'this.textBox15.Text'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="inmobiliaria" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliaria'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliaria+alquilerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliaria.alquilerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliaria+contratosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliaria.contratosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliaria+fechasDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliaria.fechasDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliaria+usuariosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliaria.usuariosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliaria+vendedorDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliaria.vendedorDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliaria+ventaDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliaria.ventaDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet+alquilerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet.alquilerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet+contratosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet.contratosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet+fechasDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet.fechasDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet+usuariosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet.usuariosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet+vendedorDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet.vendedorDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet+ventaDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet.ventaDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet1" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet1'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet1+alquilerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet1.alquilerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet1+contratosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet1.contratosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet1+fechasDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet1.fechasDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet1+usuariosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet1.usuariosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet1+vendedorDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet1.vendedorDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet1+ventaDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet1.ventaDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet10" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet10'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet10+documentosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet10.documentosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet11" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet11'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet11+contratosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet11.contratosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet12" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet12'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet12+documentosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet12.documentosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet13" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet13'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet13+clientesDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet13.clientesDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet14" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet14'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet14+clientesDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet14.clientesDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet15" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet15'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet15+clientesDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet15.clientesDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet16" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet16'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet16+contratosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet16.contratosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet17" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet17'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet17+clientesDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet17.clientesDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet2" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet2'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet2+alquilerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet2.alquilerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet2+contratosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet2.contratosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet2+fechasDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet2.fechasDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet2+usuariosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet2.usuariosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet2+vendedorDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet2.vendedorDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet2+ventaDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet2.ventaDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet3" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet3'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet3+alquilerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet3.alquilerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet3+contratosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet3.contratosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet3+fechasDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet3.fechasDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet3+usuariosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet3.usuariosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet3+vendedorDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet3.vendedorDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet3+ventaDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet3.ventaDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet4" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet4'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet4+alquilerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet4.alquilerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet4+contratosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet4.contratosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet4+fechasDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet4.fechasDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet4+usuariosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet4.usuariosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet4+vendedorDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet4.vendedorDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet4+ventaDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet4.ventaDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet5" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet5'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet5+alquilerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet5.alquilerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet5+contratosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet5.contratosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet5+fechasDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet5.fechasDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet5+usuariosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet5.usuariosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet5+vendedorDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet5.vendedorDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet5+ventaDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet5.ventaDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet6" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet6'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet6+alquilerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet6.alquilerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet6+contratosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet6.contratosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet6+fechasDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet6.fechasDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet6+usuariosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet6.usuariosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet6+vendedorDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet6.vendedorDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet6+ventaDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet6.ventaDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet7" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet7'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet7+alquilerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet7.alquilerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet7+contratosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet7.contratosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet7+fechasDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet7.fechasDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet7+usuariosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet7.usuariosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet7+vendedorDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet7.vendedorDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet7+ventaDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet7.ventaDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet8" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet8'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet8+alquilerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet8.alquilerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet8+contratosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet8.contratosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet8+fechasDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet8.fechasDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet8+usuariosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet8.usuariosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet8+vendedorDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet8.vendedorDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet8+ventaDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet8.ventaDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet9" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet9'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="inmobiliariaDataSet9+documentosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'inmobiliariaDataSet9.documentosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="UsuariosDAL" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#Autentificar(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="UsuariosDAL.cs" Line="32">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'UsuariosDAL.Autentificar(string, string)' podría contener las siguientes variables: 'pusuarios', 'pcontraseña'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#CrearCuentas(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="UsuariosDAL.cs" Line="18">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'UsuariosDAL.CrearCuentas(string, string)' podría contener las siguientes variables: 'pUsuario', 'pcontraseña'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="ventaDAL" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Agregar(Ap_inmobiliaria.venta)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="ventaDAL.cs" Line="19">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'ventaDAL.Agregar(venta)' podría contener las siguientes variables: 'pventa.dni_cliente', 'pventa.localidad', 'pventa.domicilio', 'pventa.tipo', 'pventa.ambientes', 'pventa.precio', 'pventa.fecha_alta', 'pventa.detalles'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#buscarVenta(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="ventaDAL.cs" Line="57">El objeto 'conexion' admite Dispose más de una vez en el método 'ventaDAL.buscarVenta(string, string)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 57</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="ventaDAL.cs" Line="35">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'ventaDAL.buscarVenta(string, string)' podría contener las siguientes variables: 'ptipo', 'pambientes'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#eliminar(System.Int64)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="ventaDAL.cs" Line="123">El objeto 'conexion' admite Dispose más de una vez en el método 'ventaDAL.eliminar(long)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 123</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="ventaDAL.cs" Line="120">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'ventaDAL.eliminar(long)' podría contener las siguientes variables: 'pid'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Modificar(Ap_inmobiliaria.venta)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="ventaDAL.cs" Line="108">El objeto 'conexion' admite Dispose más de una vez en el método 'ventaDAL.Modificar(venta)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 108</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="ventaDAL.cs" Line="105">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'ventaDAL.Modificar(venta)' podría contener las siguientes variables: 'pVenta.dni_cliente', 'pVenta.localidad', 'pVenta.domicilio', 'pVenta.tipo', 'pVenta.ambientes', 'pVenta.precio', 'pVenta.fecha_alta', 'pVenta.detalles', 'pVenta.id'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Obtenerventa(System.Int64)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="ventaDAL.cs" Line="93">El objeto 'conexion' admite Dispose más de una vez en el método 'ventaDAL.Obtenerventa(long)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 93</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2014-03-10 02:48:03Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria" File="ventaDAL.cs" Line="71">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'ventaDAL.Obtenerventa(long)' podría contener las siguientes variables: 'pid'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240">
+   <Name>Implementar ISerializable correctamente</Name>
+   <Description>Si se puede asignar un tipo a ISerializable, debe implementar GetObjectData. Para tipos unsealed, el método GetObjectData debe ser invocable y reemplazable por tipos derivados.</Description>
+   <Resolution Name="Default">Agregue una implementación de GetObjectData al tipo {0}.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182342(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="60">Error</MessageLevel>
+   <File Name="usagerules.dll" Version="11.0.0.0" />
+  </Rule>
+  <Rule TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202">
+   <Name>No usar Dispose varias veces en objetos</Name>
+   <Description>Un método Dispose correctamente implementado se puede llamar varias veces sin producir ninguna excepción. Sin embargo, esto no está garantizado y, para evitar generar una excepción System.ObjectDisposedException, no debe llamar al método Dispose más de una vez en un objeto.</Description>
+   <Resolution Name="Default">El objeto {0} admite Dispose más de una vez en el método {1}. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 108</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182334(VS.100).aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="11.0.0.0" />
+  </Rule>
+  <Rule TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100">
+   <Name>Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad</Name>
+   <Description>Una cadena de comando SQL compilada a partir de datos proporcionados por el usuario es vulnerable a ataques pon inyección de código SQL. Microsoft SQL Server y otros servidores de bases de datos admiten procedimientos almacenados y consultas SQL parametrizadas, que reducen el riesgo de ataques por inyección.</Description>
+   <Resolution Name="WithNonLiterals">La cadena de consulta pasada a {0} en {1} podría contener las siguientes variables: {2}. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182310(VS.100).aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="11.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Categoría</String>
+  <String Key="Certainty">Certeza</String>
+  <String Key="CollapseAll">Contraer todo</String>
+  <String Key="CheckId">Comprobar id.</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">errores</String>
+  <String Key="ExpandAll">Expandir todo</String>
+  <String Key="Help">Ayuda</String>
+  <String Key="Line">Línea</String>
+  <String Key="Messages">mensajes</String>
+  <String Key="LocationNotStoredInPdb">[Ubicación no almacenada en Pdb]</String>
+  <String Key="Project">Proyecto</String>
+  <String Key="Resolution">Resolución</String>
+  <String Key="Rule">Regla</String>
+  <String Key="RuleFile">Archivo de regla</String>
+  <String Key="RuleDescription">Descripción de la regla</String>
+  <String Key="Source">Origen</String>
+  <String Key="Status">Estado</String>
+  <String Key="Target">Círculos concéntricos</String>
+  <String Key="Warning">Advertencia</String>
+  <String Key="Warnings">advertencias</String>
+  <String Key="ReportTitle">Informe de análisis del código</String>
+ </Localized>
+</FxCopReport>

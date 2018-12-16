@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{21D2116D-A429-43FE-8DF1-0DE9A762916E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ap_inmobiliaria</RootNamespace>
+    <AssemblyName>Ap_inmobiliaria</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CLIENTE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CLIENTE.Designer.cs">
+      <DependentUpon>CLIENTE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="alquiler.cs" />
+    <Compile Include="buscar alquiler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="buscar alquiler.Designer.cs">
+      <DependentUpon>buscar alquiler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clientes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>clientes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="conexion.cs" />
+    <Compile Include="contrato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="contrato.Designer.cs">
+      <DependentUpon>contrato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="alquilerDAL.cs" />
+    <Compile Include="Autentificacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Autentificacion.Designer.cs">
+      <DependentUpon>Autentificacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BDComun.cs" />
+    <Compile Include="buscar venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="buscar venta.Designer.cs">
+      <DependentUpon>buscar venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inmobiliaria.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>inmobiliaria.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ADMINISTRADOR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMINISTRADOR.Designer.cs">
+      <DependentUpon>ADMINISTRADOR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inmobiliariaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>inmobiliariaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="inmobiliariaDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>inmobiliariaDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="inmobiliariaDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>inmobiliariaDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="inmobiliariaDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>inmobiliariaDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="inmobiliariaDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>inmobiliariaDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="inmobiliariaDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>inmobiliariaDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="inmobiliariaDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>inmobiliariaDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registro_Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registro_Usuarios.Designer.cs">
+      <DependentUpon>Registro_Usuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios.cs" />
+    <Compile Include="UsuariosDAL.cs" />
+    <Compile Include="validar.cs" />
+    <Compile Include="venta.cs" />
+    <Compile Include="ventaDAL.cs" />
+    <EmbeddedResource Include="CLIENTE.resx">
+      <DependentUpon>CLIENTE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="buscar alquiler.resx">
+      <DependentUpon>buscar alquiler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="contrato.resx">
+      <DependentUpon>contrato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Autentificacion.resx">
+      <DependentUpon>Autentificacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="buscar venta.resx">
+      <DependentUpon>buscar venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMINISTRADOR.resx">
+      <DependentUpon>ADMINISTRADOR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Registro_Usuarios.resx">
+      <DependentUpon>Registro_Usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="clientes.xsc">
+      <DependentUpon>clientes.xsd</DependentUpon>
+    </None>
+    <None Include="clientes.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>clientes.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="clientes.xss">
+      <DependentUpon>clientes.xsd</DependentUpon>
+    </None>
+    <None Include="inmobiliaria.xsc">
+      <DependentUpon>inmobiliaria.xsd</DependentUpon>
+    </None>
+    <None Include="inmobiliaria.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>inmobiliaria.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="inmobiliaria.xss">
+      <DependentUpon>inmobiliaria.xsd</DependentUpon>
+    </None>
+    <None Include="inmobiliariaDataSet.xsc">
+      <DependentUpon>inmobiliariaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="inmobiliariaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>inmobiliariaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="inmobiliariaDataSet.xss">
+      <DependentUpon>inmobiliariaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="inmobiliariaDataSet1.xsc">
+      <DependentUpon>inmobiliariaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="inmobiliariaDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>inmobiliariaDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="inmobiliariaDataSet1.xss">
+      <DependentUpon>inmobiliariaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="inmobiliariaDataSet2.xsc">
+      <DependentUpon>inmobiliariaDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="inmobiliariaDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>inmobiliariaDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="inmobiliariaDataSet2.xss">
+      <DependentUpon>inmobiliariaDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="inmobiliariaDataSet3.xsc">
+      <DependentUpon>inmobiliariaDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="inmobiliariaDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>inmobiliariaDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="inmobiliariaDataSet3.xss">
+      <DependentUpon>inmobiliariaDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="inmobiliariaDataSet4.xsc">
+      <DependentUpon>inmobiliariaDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="inmobiliariaDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>inmobiliariaDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="inmobiliariaDataSet4.xss">
+      <DependentUpon>inmobiliariaDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="inmobiliariaDataSet5.xsc">
+      <DependentUpon>inmobiliariaDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="inmobiliariaDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>inmobiliariaDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="inmobiliariaDataSet5.xss">
+      <DependentUpon>inmobiliariaDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="inmobiliariaDataSet6.xsc">
+      <DependentUpon>inmobiliariaDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="inmobiliariaDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>inmobiliariaDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="inmobiliariaDataSet6.xss">
+      <DependentUpon>inmobiliariaDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contrato.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clientes.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,402 @@
+c:\users\matias mencucci\documents\visual studio 2012\Projects\Ap_inmobiliaria\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910 - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910 - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910 - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.principal.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - busqueda modifica 1910 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - 04022014\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - 04022014\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - 04022014\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - 04022014\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - 04022014\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - 04022014\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - 04022014\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - 04022014\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - 04022014\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - 04022014\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.principal.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - 04022014\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - 04022014\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - 04022014\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - 04022014\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form4.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - 04022014\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_alquiler.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_alquiler.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form4.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.principal.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_alquiler.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form4.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.principal.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.contrato.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_alquiler.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.contrato.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form4.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form5.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.principal.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_alquiler.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.contrato.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form4.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form5.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.principal.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_alquiler.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.contrato.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form4.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form5.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form6.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.principal.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_alquiler.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.contrato.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form4.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form5.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form6.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.principal.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_alquiler.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.contrato.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form4.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form5.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form6.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.principal.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_alquiler.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.contrato.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form4.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form5.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form6.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.principal.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.CodeAnalysisLog.xml
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.lastcodeanalysissucceeded
+E:\PROJECT\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+E:\PROJECT\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+E:\PROJECT\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+E:\PROJECT\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+E:\PROJECT\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+E:\PROJECT\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+E:\PROJECT\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_alquiler.resources
+E:\PROJECT\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.contrato.resources
+E:\PROJECT\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form4.resources
+E:\PROJECT\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+E:\PROJECT\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+E:\PROJECT\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+E:\PROJECT\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form5.resources
+E:\PROJECT\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form6.resources
+E:\PROJECT\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.principal.resources
+E:\PROJECT\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+E:\PROJECT\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+E:\PROJECT\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_alquiler.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.contrato.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form4.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form5.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form6.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.principal.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - ALQUILER-VENTA-1 - copia - copia - copia - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_alquiler.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.contrato.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form4.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form5.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form6.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.ADMINISTRADOR.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2013\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.CLIENTE.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.CLIENTE.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_alquiler.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.contrato.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form4.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form5.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form6.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.ADMINISTRADOR.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\Matias Mencucci\Documents\Visual Studio 2012\Projects\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\MENCU\Desktop\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\MENCU\Desktop\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\MENCU\Desktop\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.CLIENTE.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_alquiler.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.contrato.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form4.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form5.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form6.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.ADMINISTRADOR.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.CLIENTE.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_alquiler.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.contrato.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form4.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form5.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form6.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.ADMINISTRADOR.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.CLIENTE.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_alquiler.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.contrato.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form4.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form5.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form6.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.ADMINISTRADOR.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.CLIENTE.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_alquiler.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.contrato.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form4.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form5.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form6.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.ADMINISTRADOR.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.CLIENTE.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_alquiler.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.contrato.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form4.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form5.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form6.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.ADMINISTRADOR.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.CLIENTE.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_alquiler.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.contrato.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form4.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form5.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form6.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.ADMINISTRADOR.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+C:\Users\MENCU\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe.config
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.exe
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.pdb
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.exe
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\bin\Debug\Ap_inmobiliaria.pdb
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csprojResolveAssemblyReference.cache
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.CLIENTE.resources
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_alquiler.resources
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.contrato.resources
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form4.resources
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Autentificacion.resources
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.buscar_venta.resources
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form1.resources
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form5.resources
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Form6.resources
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.ADMINISTRADOR.resources
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Properties.Resources.resources
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.Registro_Usuarios.resources
+C:\BAckup MAti Mencu\mencu\Documents\INSTITUTO 12\PROJECT\Ap_inmobiliaria - MESCLA - copia - copia - copia - copia - usuarios - control de intentos\Ap_inmobiliaria\obj\Debug\Ap_inmobiliaria.csproj.GenerateResource.Cache
